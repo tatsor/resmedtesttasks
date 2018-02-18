@@ -1,0 +1,5 @@
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\MarsRoverTestTask\bin\Debug\MarsRoverTestTask.exe.config
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\MarsRoverTestTask\bin\Debug\MarsRoverTestTask.exe
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\MarsRoverTestTask\bin\Debug\MarsRoverTestTask.pdb
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\MarsRoverTestTask\obj\Debug\MarsRoverTestTask.exe
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\MarsRoverTestTask\obj\Debug\MarsRoverTestTask.pdb

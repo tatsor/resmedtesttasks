@@ -1,0 +1,10 @@
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\PublicAPITestTask.dll
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\PublicAPITestTask.pdb
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\obj\Debug\PublicAPITestTask.dll
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\PublicAPITestTask\obj\Debug\PublicAPITestTask.pdb

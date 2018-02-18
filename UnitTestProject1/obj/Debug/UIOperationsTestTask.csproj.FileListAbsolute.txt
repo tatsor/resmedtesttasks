@@ -1,0 +1,12 @@
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\taniasorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TaniaSorokina\documents\visual studio 2015\Projects\ResMedTest\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
